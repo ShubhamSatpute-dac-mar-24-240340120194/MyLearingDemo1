@@ -4,4 +4,4 @@ myLearing1
 This is 1st lesson
 <br>
 this is for check pull operation
-<br> line added to check status command
+<br> line added to check status command of git
